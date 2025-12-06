@@ -1,0 +1,9 @@
+# Rust
+aiboo_agent/target/
+
+# Node
+aiboo_backend/node_modules/
+aiboo_backend/.env
+
+# General
+.env
